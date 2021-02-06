@@ -51,7 +51,6 @@ public class CalculatorTest extends TestCase {
         list.add(138.2);
         double expResult = 60.32;
         double result = Calculator.mean(list);
-        System.out.println(result);
         assertEquals(expResult, result);
     }
 
