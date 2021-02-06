@@ -18,6 +18,10 @@ Aqui puede acceder a la aplicacion web para este proyecto.
 
 [![Deployed to Heroku](https://www.herokucdn.com/deploy/button.png)](https://enigmatic-waters-77275.herokuapp.com/index)
 
+### Integración Continua
+
+[![CircleCI](https://circleci.com/gh/StivenVanegas/AREP-TALLER2.svg?style=svg)](https://app.circleci.com/pipelines/github/StivenVanegas/AREP-TALLER2)
+
 ### REQUISITOS
 * Java
 * Maven
